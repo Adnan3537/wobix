@@ -12,7 +12,7 @@ function ProductCard({product}) {
                             className='aspect-[1/1.4] object-cover' />
                     </div>
                     <div className='icon absolute top-4 right-5 w-8 cursor-pointer'>
-                        <img src="src/assets/images/spotlight/Frame 20.png" alt="#"
+                        <img src="/images/Frame20.png" alt="#"
                             className='' />
                     </div>
                     <div className='details'>

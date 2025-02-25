@@ -31,7 +31,7 @@ function AboutForth() {
                         <div className="flex items-center gap-4">
                             <div className="w-12 h-12 overflow-hidden rounded-full">
                                 <img 
-                                    src="/src/assets/images/spotlight/Ellipse2.png" 
+                                    src="/images/Ellipse2(1).png" 
                                     alt="Sarah Chen" 
                                     className="w-full h-full object-cover"
                                 />
@@ -47,7 +47,7 @@ function AboutForth() {
                 {/* Right Section */}
                 <div className="right w-full md:w-[49%] flex justify-center">
                     <img 
-                        src="/src/assets/images/spotlight/1blackbottle.png" 
+                        src="/images/1blackbottle.png" 
                         alt="Black Bottle" 
                         className="max-w-full h-auto rounded-lg shadow-md"
                     />

@@ -25,7 +25,7 @@ function AboutSixth() {
   return (
     <div 
       className="flex flex-col items-center justify-center py-40 mt-20 bg-cover bg"
-      style={{ backgroundImage: "url('/src/assets/images/spotlight/bgbottles4.jpeg')" }}
+      style={{ backgroundImage: "url('/images/bgbottles4.jpeg')" }}
     > 
       <div className="wrapper text-center max-w-3xl px-6">
         {/* Heading */}

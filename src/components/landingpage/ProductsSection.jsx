@@ -12,56 +12,56 @@ const products = [
         name: 'Eco Sip Bottle',
         description: 'A beautiful and eco-friendly bottle',
         price: 10,
-        image: 'src/assets/images/spotlight/6fde1edec2f6e03dd488a17d49c766af.png'
+        image: '/images/6fde1edec2f6e03dd488a17d49c766af.png'
     },
     {
         id: 2,
         name: 'Eco Sip Bottle',
         description: 'A stylish and environmentally friendly bottle',
         price: 15,
-        image: 'src/assets/images/spotlight/a3bfe0189eec92aedb41369ec66b2aa6.png'
+        image: '/images/a3bfe0189eec92aedb41369ec66b2aa6.png'
     },
     {
         id: 3,
         name: 'Eco Sip Bottle',
         description: 'A unique and sustainable bottle',
         price: 20,
-        image: 'src/assets/images/spotlight/0b8d4dd87c5454407a18f7730c31b36b.png'
+        image: '/images/0b8d4dd87c5454407a18f7730c31b36b.png'
     },
     {
         id: 4,
         name: 'Eco Sip Bottle',
         description: 'A modern and eco-friendly bottle',
         price: 25,
-        image: 'src/assets/images/spotlight/8b172159fabf13e852e01bdb3a350f03.png'
+        image: '/images/8b172159fabf13e852e01bdb3a350f03.png'
     },
     {
         id: 1,
         name: 'Eco Sip Bottle',
         description: 'A beautiful and eco-friendly bottle',
         price: 10,
-        image: 'src/assets/images/spotlight/6fde1edec2f6e03dd488a17d49c766af.png'
+        image: '/images/6fde1edec2f6e03dd488a17d49c766af.png'
     },
     {
         id: 2,
         name: 'Eco Sip Bottle',
         description: 'A stylish and environmentally friendly bottle',
         price: 15,
-        image: 'src/assets/images/spotlight/a3bfe0189eec92aedb41369ec66b2aa6.png'
+        image: '/images/a3bfe0189eec92aedb41369ec66b2aa6.png'
     },
     {
         id: 3,
         name: 'Eco Sip Bottle',
         description: 'A unique and sustainable bottle',
         price: 20,
-        image: 'src/assets/images/spotlight/0b8d4dd87c5454407a18f7730c31b36b.png'
+        image: '/images/0b8d4dd87c5454407a18f7730c31b36b.png'
     },
     {
         id: 4,
         name: 'Eco Sip Bottle',
         description: 'A modern and eco-friendly bottle',
         price: 25,
-        image: 'src/assets/images/spotlight/8b172159fabf13e852e01bdb3a350f03.png'
+        image: '/images/8b172159fabf13e852e01bdb3a350f03.png'
     },
 ];
 

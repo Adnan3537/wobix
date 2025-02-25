@@ -3,7 +3,7 @@ import React from 'react'
 function SpotLight() {
     return (
         <div className='bg-[#F8F8F8]'>
-            <div className='wrapper  bg-[url(src/assets/images/spotlight/spotlightpic.jpeg)] bg-cover bg-center w-full rounded-2xl min-h[400px] flex flex-col justify-between'>
+            <div className='wrapper  bg-[url(/images/spotlightpic.jpeg)] bg-cover bg-center w-full rounded-2xl min-h[400px] flex flex-col justify-between'>
                 <div className='flex flex-col justify-center items-center text-center w-full px-4'>
                     <h2 className='text-[30px] text-white font-semibold text-center text-4xl md:text-6xl lg:text-7xl leading-tight w-full md:w-[80%] lg:w-[60%] pt-[50px] md:mt-[100px] md:mb-[100px]'>Stay Hydrated,<br />Stay Healthy</h2>
 

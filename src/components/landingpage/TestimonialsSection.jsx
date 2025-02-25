@@ -75,37 +75,37 @@ const cards = [
         id: 1,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
     {
         id: 2,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
     {
         id: 3,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
     {
         id: 1,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
     {
         id: 2,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
     {
         id: 3,
         name: 'Hellen Jummy',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, lectus ac fringilla commodo, mi lectus tempus libero, non tempor ex neque ut justo.',
-        image: 'src/assets/images/spotlight/User Thumb.png',
+        image: '/images/UserThumb.png',
     },
 ];
 
