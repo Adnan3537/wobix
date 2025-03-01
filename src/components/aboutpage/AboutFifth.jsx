@@ -62,7 +62,7 @@ function AboutFifth() {
                 {/* Left - Image */}
                 <div className="w-full md:w-[49%] flex justify-center">
                     <img 
-                        src="/src/assets/images/spotlight/bluebottle.png" 
+                        src="/public/images/bluebottle.png" 
                         alt="Blue Bottle" 
                         className="max-w-full h-auto rounded-lg shadow-md"
                     />

@@ -163,13 +163,13 @@ function TestimonialsSection() {
                     </Slider>
                     {/* Custom Buttons */}
                     <div className='md:pr-6 pr-0 buttons flex md:justify-end justify-center space-x-2 md:pt-10 pt-6'>
-                        <button onClick={() => sliderRef.slickPrev()}>
+                        <button onClick={() => sliderRef.slickPrev()} className='cursor-pointer'>
                             <svg width="35" height="35" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <rect x="-0.5" y="0.5" width="47" height="47" rx="23.5" transform="matrix(-1 0 0 1 47 0)" stroke="black" />
                                 <path d="M27 30L21 24L27 18" stroke="#252525" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
                             </svg>
                         </button>
-                        <button onClick={() => sliderRef.slickNext()}>
+                        <button onClick={() => sliderRef.slickNext()} className='cursor-pointer'> 
                             <svg width="35" height="35" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" stroke="black" />
                                 <path d="M21 30L27 24L21 18" stroke="#252525" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
